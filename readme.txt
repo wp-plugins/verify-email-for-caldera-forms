@@ -12,7 +12,7 @@ Send an email with a validate link to verify the email address before completing
 
 == Description ==
 
-A form processor for Caldera Forms that sends a validation link to the submitters email address to verify the email entered is valid. Once the link is clicked, the form submission is completed.
+A form processor for [Caldera Forms](https://wordpress.org/plugins/caldera-forms/) that sends a validation link to the submitters email address to verify the email entered is valid. Once the link is clicked, the form submission is completed.
 This can be used for both anti-spam and confirming the email address is correct before sending the form.
 
 A free plugin by [CalderaWP](https://CalderaWP.com).
@@ -27,10 +27,6 @@ Install the plugin through the WordPress Plugins Installer or upload the folder 
 = Does It Got To Eleven? =
 
 Of course it does.
-
-== Screenshots ==
-
-1. Screenshot 1 A Simple setup
 
 == Changelog ==
 
