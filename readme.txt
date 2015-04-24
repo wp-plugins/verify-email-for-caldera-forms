@@ -1,5 +1,5 @@
 === Verify Email for Caldera Forms ===
-Contributors: Desertsnowman
+Contributors: Desertsnowman,shelob9
 Donate link: https://CalderaWP.com
 Tags: caldera forms, verify email, validate email, form processor, anti-spam, spam, calderawp
 Requires at least: 3.9
